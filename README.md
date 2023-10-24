@@ -1,1 +1,3 @@
 # Robo_Speaker_JARVIS
+
+This  project is based on python programming language . It gives output according to user input text by pronouncing the text . I named this program JARVIS ........
